@@ -1,16 +1,25 @@
-# stream_management_flutter
+<!-- create readme for fucntionality of my app -->
+Features of the app:
+- User can search for a stream 
+- User can view the top streams
+- User can add stream
+- User can delete stream
+- User can update stream
 
-A new Flutter project.
+Task Completed:
+- [x] User can search for a stream
+- [x] User add the link of the stream and it search it using the open Graph API and get the meta deta
+- [x] Getx for efficient state management
+- [x] Proper Folder Structure and separation of concerns
+- [x] Mangaged the UI perfection with respect to given in the figma
+- [x] search bar functionality searches for input by the user
+- [x] Using pagination for efficient data loading
+- [x] Interactivite Lottie animaiton for loading more streams
+- [x] User custom clipper to meet the UI requirements
+- [x] Proper exception handling and code seperation for better readability
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Stream App
+lib/view/live_stream_screen.dart
+```dart
