@@ -1,4 +1,7 @@
 <!-- create readme for fucntionality of my app -->
+## App Demo Video:  
+
+https://github.com/user-attachments/assets/f63acfc3-54e8-4997-a09b-90f9ad4046a7
 Features of the app:
 - User can search for a stream 
 - User can view the top streams
