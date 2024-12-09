@@ -33,6 +33,7 @@ lib/view/create_stream_screen.dart
 
 lib/resources/routes.dart
 ```added the routes for the app
+
 lib/resources/app_url.dart
 ```added the constant app url for the app
 ```
