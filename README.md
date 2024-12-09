@@ -21,33 +21,32 @@ Task Completed:
 
 
 # Stream App
-lib/view/live_stream_screen.dart
-```added the live stream screen for the user to view the live stream and search bar to search for the stream and add button to add stream
-```
-lib/view/update_stream_screen.dart
-```user can update the stream by clicking on the update button and dialog open on clicking the delete button 
-```
-lib/view/create_stream_screen.dart
-```user paste the link and the api fetches the data and populate the feilds and user can add the stream
-```
 
-lib/resources/routes.dart
-```added the routes for the app
-```
+## lib/view/live_stream_screen.dart
+- added the live stream screen for the user to view the live stream and search bar to search for the stream and add button to add stream
 
-lib/resources/app_url.dart
-```added the constant app url for the app
-```
-lib/repository/create_stream_repository.dart
-```fetch the data from the api using the NetworkApi class 
-```
-lib/data/network/network_api_services.dart
-```implemented the network api services for the app and network api class implements an base class
-```managing custom response 
-```
-lib/data/api_response.dart
-```Handling the api response and creating custom Exceptions
-```
+## lib/view/update_stream_screen.dart
+- user can update the stream by clicking on the update button and dialog open on clicking the delete button 
+
+## lib/view/create_stream_screen.dart
+- user paste the link and the api fetches the data and populate the feilds and user can add the stream
+
+## lib/resources/routes.dart
+- added the routes for the app
+
+## lib/resources/app_url.dart
+- added the constant app url for the app
+
+## lib/repository/create_stream_repository.dart
+- fetch the data from the api using the NetworkApi class 
+
+## lib/data/network/network_api_services.dart
+- implemented the network api services for the app and network api class implements an base class
+- managing custom response 
+
+## lib/data/api_response.dart
+- Handling the api response and creating custom Exceptions
+
 
 
 # How to check
